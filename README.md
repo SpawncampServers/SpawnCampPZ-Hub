@@ -41,8 +41,8 @@ No whitelist or password required — just join and create your character.
 | Setting | Value |
 |---|---|
 | Map | Muldraugh, KY |
-| Max Players | 32 |
-| Mods | None — vanilla server |
+| Max Players | 100 |
+| Mods | None — vanilla server | Will be added later.
 | PVP | Optional — toggle safety on/off in-game |
 | Safehouses | Player & admin claims allowed — 7 in-game days survived to claim |
 | Factions | Allowed — 7 in-game days survived to create |
