@@ -33,8 +33,6 @@ Port: 16261
 
 ```
 
-> DNS for this domain is managed through Cloudflare. Your home IP can still change over time — if the server ever seems unreachable, check Discord for an updated address, or ask the admin to refresh the DNS record.
-
 No whitelist or password required — just join and create your character.
 
 ## Join the Community
