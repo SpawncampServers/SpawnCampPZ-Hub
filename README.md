@@ -17,14 +17,20 @@ A true PvPvE community. Play your way — survivor, trader, medic, hunter, build
 ## How to Connect
 
 **In-game (Steam):**
+
 ```
+
 Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServers | PvEvP | QoL | Active Admins.
+
 ```
 
 **Direct connect:**
+
 ```
+
 Address: spawncampservers.dpdns.org
 Port: 16261
+
 ```
 
 > DNS for this domain is managed through Cloudflare. Your home IP can still change over time — if the server ever seems unreachable, check Discord for an updated address, or ask the admin to refresh the DNS record.
@@ -33,7 +39,7 @@ No whitelist or password required — just join and create your character.
 
 ## Join the Community
 
-💬 Discord: [SpawnCampServers Discord](https://discord.gg/XNbx4CkQMw)
+💬 Discord: [SpawnCampServers Discord](https://discord.gg/XNbx4CkQMw)  
 ☕ Support us: [Ko-fi](https://ko-fi.com/spawncampservers)
 
 ## Server Info
@@ -42,12 +48,11 @@ No whitelist or password required — just join and create your character.
 |---|---|
 | Map | Muldraugh, KY |
 | Max Players | 32 |
-| Mods | https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446
+| Mods | https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446 |
 | PVP | Optional — toggle safety on/off in-game |
 | Safehouses | Player & admin claims allowed — 7 in-game days survived to claim |
 | Factions | Allowed — 7 in-game days survived to create |
 | Sleep | Allowed, not required |
-| Fire | Disabled (except campfires) |
 | Loot Respawn | Disabled in claimed safehouses |
 
 ## PVP & Safety System
@@ -81,23 +86,30 @@ Any player found breaking these rules may receive a **permanent ban** and have t
 
 ## Reports & Support
 
-- **Need help, have a question, or want to report a player?** Head to `#pz-help` in Discord.
+- **Need help, have a question, or want to report a player?** Create a ticket via `create-ticket` or post in `#pz-help`.
 - **Video evidence required** — reports involving cheating, exploiting, or other serious rule violations must include clear video evidence. Screenshots and written descriptions alone are not sufficient for staff to investigate.
 
-**PZ Discord channels:**
-- `#pz-general` — general chat
-- `#pz-announcements` — server updates, restarts, patch notes
-- `#pz-events` — community events
-- `#pz-trading` — buy/sell/trade between players
-- `#pz-looking-for-group` — find people to team up with
-- `#pz-help` — questions, support, and player reports
-- `#pz-mod-list` — full list of mods (if any are added)
-- `#pz-screenshots` — share your survival moments
-- `#pz-suggestions` — suggest changes or features
+## Discord Channel Guide
 
-## Live Map
+**Text & System Channels**
+- `#pz-announcements` — Official server updates, news, and notifications
+- `#pz-connection-info` — Connection details, IP addresses, and setup steps
+- `#pz-mod-list` — Installed server modlist and Steam Workshop links
+- `#pz-general` — General chat for Project Zomboid survival chatter
+- `#pz-looking-for-group` — Find teammates, survivors, or faction members
+- `#pz-events` — Announcements and schedules for community events
+- `#pz-screenshots` — Share base designs, death moments, and survival pictures
+- `#pz-suggestions` — Propose features or quality-of-life changes for the PZ server
+- `#pz-help` — General questions, technical support, and ticket assistance
 
-*(Coming soon)* — will be linked here once set up.
+**Forum Channels**
+- `forum: pz-player-profiles` — Character bios, player backstories, and faction introductions
+- `forum: pz-trading` — Buy, sell, and trade in-game items, vehicles, and trailers
+
+**Voice Channels**
+- `🔊 Project Zomboid 1` — Public voice chat 1
+- `🔊 Project Zomboid 2` — Public voice chat 2
+- `🔊 Project Zomboid 3` — Public voice chat 3
 
 ---
 
