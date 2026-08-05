@@ -18,7 +18,7 @@ A true PvPvE community. Play your way — survivor, trader, medic, hunter, build
 
 **In-game (Steam):**
 ```
-Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServerS | PvE | Active Admins
+Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServers | PvEvP | QoL | Active Admins.
 ```
 
 **Direct connect:**
@@ -41,8 +41,8 @@ No whitelist or password required — just join and create your character.
 | Setting | Value |
 |---|---|
 | Map | Muldraugh, KY |
-| Max Players | 100 |
-| Mods | None — vanilla server | Will be added later.
+| Max Players | 32 |
+| Mods | https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446
 | PVP | Optional — toggle safety on/off in-game |
 | Safehouses | Player & admin claims allowed — 7 in-game days survived to claim |
 | Factions | Allowed — 7 in-game days survived to create |
