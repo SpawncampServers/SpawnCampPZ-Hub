@@ -111,4 +111,4 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 ---
 
-*Powered by AMP · Hosted by SpawnCampServers*
+![SpawnCampServers Icon](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png)*Powered by AMP · Hosted by SpawnCampServers*
