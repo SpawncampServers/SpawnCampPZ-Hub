@@ -38,7 +38,7 @@ No whitelist or password required — just join and create your character.
 
 | Setting      | Value                                                                                          |
 | ------------ | ---------------------------------------------------------------------------------------------- |
-| Map          | Muldraugh, KY                                                                                  |
+| Map          | map_distanciado; Muldraugh, KY                                                                 |
 | Max Players  | 32                                                                                             |
 | Mods         | [Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446) |
 | PVP          | Optional — toggle safety on/off in-game                                                        |
