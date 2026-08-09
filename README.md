@@ -51,8 +51,8 @@ No whitelist or password required — just join and create your character.
 
 **Rule 1:** The game technically lets any PvP player hit someone, even with Safety on. However on our server that's against the rules. If their safety is on, leave them alone.
 
-- **Safety ON (Green Axes):** You are in PvE mode. You cannot damage other players, and other players cannot damage you.
-- **Safety OFF (Skull CrossBones Icon):** You are opting into PvP. You can fight other players who also have Safety OFF.
+- **Safety ON (You see Green Axes icon on the left of the screen):** You are in PvE mode. You cannot damage other players, and other players should not damage you.
+- **Safety OFF (Skull CrossBones Icon by player name):** You are opting into PvP. You can fight other players who also have Safety OFF.
 - **Toggle Timer:** Switching safety on or off takes **60 seconds**, with a **60-second cooldown** before you can toggle again — plan ahead, as you cannot flip it mid-fight.
 - **Griefing Clause:** Attempting to bypass the safety system (e.g., using vehicle collisions, fire traps, or pulling zombie hordes onto safe players) is strictly forbidden and treated as griefing.
 
