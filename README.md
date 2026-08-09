@@ -2,8 +2,6 @@
 
 ![SpawnCampServers Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
 
-<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCampServers Icon" width="120">
-
 ## SpawnCamp Servers — Project Zomboid
 
 A true PvPvE community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
@@ -111,4 +109,6 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 ---
 
-*Powered by AMP · Hosted by SpawnCampServers*
+
+
+<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCampServers Icon" width="64">*Powered by AMP · Hosted by SpawnCampServers*
