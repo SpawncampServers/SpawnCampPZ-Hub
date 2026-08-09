@@ -11,13 +11,6 @@ A true PvPvE community. Play your way — survivor, trader, medic, hunter, build
 [UK/EU] SpawnCampServers | PvEvP (opt-in) | QoL | Active Admin
 ```
 
-## Welcome Message
-
-> Welcome to **[UK/EU] SpawnCampServers!** PvE by default — PvP is optional and up to you to toggle on or off.
-> Join our Discord: https://discord.gg/XNbx4CkQMw
-> Support us here: https://ko-fi.com/spawncampservers
-> Read the rules in `#rules`, be respectful, and survive!
-
 ## How to Connect
 
 **In-game (Steam):**
