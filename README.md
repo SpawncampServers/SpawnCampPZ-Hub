@@ -1,19 +1,3 @@
----
-canonical: https://pzhub.spawncampservers.dpdns.org/
-meta-description: Server info hub for SpawnCamp Servers — Project Zomboid. Connection details, rules, and community links for players.
-meta-generator: Jekyll v3.10.0
-meta-og:description: Server info hub for SpawnCamp Servers — Project Zomboid. Connection details, rules, and community links for players.
-meta-og:locale: en_US
-meta-og:site_name: SpawnCampPZ-Hub
-meta-og:title: SpawnCampPZ-Hub
-meta-og:type: website
-meta-og:url: https://pzhub.spawncampservers.dpdns.org/
-meta-twitter:card: summary
-meta-twitter:title: SpawnCampPZ-Hub
-meta-viewport: width=device-width, initial-scale=1
-title: SpawnCampPZ-Hub | Server info hub for SpawnCamp Servers — Project Zomboid. Connection details, rules, and community links for players.
----
-
 # SpawnCampPZ-Hub
 
 ![SpawnCampServers Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
