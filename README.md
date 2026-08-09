@@ -6,16 +6,24 @@
 
 A true PvPvE community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
 
+**Server Name:**
+```
+[UK/EU] SpawnCampServers | PvEvP (opt-in) | QoL | Active Admin
+```
+
 ## Welcome Message
-> Welcome to **[UK/EU] SpawnCampServers!** PvE by default — PvP is strictly opt-in and handled via the in-game safety system.
-> Read the rules, be respectful, and happy surviving!
+
+> Welcome to **[UK/EU] SpawnCampServers!** PvE by default — PvP is optional and up to you to toggle on or off.
+> Join our Discord: https://discord.gg/XNbx4CkQMw
+> Support us here: https://ko-fi.com/spawncampservers
+> Read the rules in `#rules`, be respectful, and survive!
 
 ## How to Connect
 
 **In-game (Steam):**
 
 ```
-Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServers | PvEvP | QoL | Active Admins.
+Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServers | PvEvP (opt-in) | QoL | Active Admin
 ```
 
 **Direct connect:**
@@ -53,6 +61,9 @@ No whitelist or password required — just join and create your character.
 - **Toggle Timer:** Switching safety on or off takes **60 seconds**, with a **60-second cooldown** before you can toggle again — plan ahead, as you cannot flip it mid-fight.
 - **Griefing Clause:** Attempting to bypass the safety system (e.g., using vehicle collisions, fire traps, or pulling zombie hordes onto safe players) is strictly forbidden and treated as griefing.
 
+**Server Browser Description:**
+> The game technically lets any PvP player hit someone, even with Safety on. However on our server that's against the rules. If their safety is on, leave them alone..
+
 ## Community Rules
 
 By joining our Discord or playing on our servers, you agree to the following:
@@ -81,6 +92,7 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 - **Need help or reporting a player?** Create a ticket via `create-ticket` or post in `#pz-help`.
 - **Video evidence required** — Reports involving cheating, indirect griefing, or rule violations must include clear video footage. Screenshots alone are not sufficient for administrative action.
+- **Donate:** Support server costs and hosting via [Ko-fi](https://ko-fi.com/spawncampservers).
 
 ## Discord Channel Guide
 
@@ -88,18 +100,17 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 - `#pz-announcements` — Official server updates, news, and notifications
 - `#pz-connection-info` — Connection details, IP addresses, and setup steps
-- `#pz-mod-list` — Installed server modlist and Steam Workshop links
-- `#pz-general` — General chat for Project Zomboid survival chatter
-- `#pz-looking-for-group` — Find teammates, survivors, or faction members
 - `#pz-events` — Announcements and schedules for community events
-- `#pz-screenshots` — Share base designs, death moments, and survival pictures
-- `#pz-suggestions` — Propose features or quality-of-life changes for the PZ server
 - `#pz-help` — General questions, technical support, and ticket assistance
+- `#pz-general` — General chat for Project Zomboid survival chatter
+- `#pz-screenshots` — Share base designs, death moments, and survival pictures
+- `#pz-looking-for-group` — Find teammates, survivors, or faction members
 
 **Forum Channels**
 
 - `pz-player-profiles` — Character bios, player backstories, and faction introductions
 - `pz-trading` — Buy, sell, and trade in-game items, vehicles, and trailers
+- `pz-suggestions` — Propose features or quality-of-life changes for the PZ server
 
 **Voice Channels**
 
@@ -109,6 +120,6 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 ---
 
+<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCampServers Icon" width="32">
 
-
-<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCampServers Icon" width="64">*Powered by AMP · Hosted by SpawnCampServers*
+*Powered by AMP · Hosted by SpawnCampServers*
