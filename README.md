@@ -1,3 +1,4 @@
+```markdown
 # SpawnCampPZ-Hub
 
 ![SpawnCamp Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
