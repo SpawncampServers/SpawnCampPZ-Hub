@@ -1,58 +1,70 @@
+Here is the updated `README.md` fully aligned with the shortened **SpawnCamp** branding, cleaned-up headers, and consistent formatting:
+
+```markdown
 # SpawnCampPZ-Hub
 
-![SpawnCampServers Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
+![SpawnCamp Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
 
-## SpawnCamp Servers — Project Zomboid
+## SpawnCamp — Project Zomboid
 
 A true PvPvE community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
 
 **Server Name:**
+
 ```
-[UK/EU] SpawnCampServers | PvEvP (opt-in) | QoL | Active Admin
+
+[UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
+
 ```
 
 ## How to Connect
 
 **In-game (Steam):**
 
+
 ```
-Server Browser → search "SpawnCampServers" → [UK/EU] SpawnCampServers | PvEvP (opt-in) | QoL | Active Admin
+
+Server Browser → search "SpawnCamp" → [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
+
 ```
 
 **Direct connect:**
 
+
 ```
+
 Address: spawncampservers.dpdns.org
 Port: 16261
+
 ```
 
 No whitelist or password required — just join and create your character.
 
 ## Join the Community
 
-💬 Discord: [SpawnCampServers Discord](https://discord.gg/XNbx4CkQMw)
+💬 Discord: [SpawnCamp Discord](https://discord.gg/XNbx4CkQMw)
 
 ☕ Support us: [Ko-fi](https://ko-fi.com/spawncampservers)
 
 ## Server Info
 
-| Setting      | Value                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| Map          | map_distanciado; Muldraugh, KY                                                                 |
-| Max Players  | 32                                                                                             |
-| Mods         | [Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446) |
-| PVP          | Optional — toggle safety on/off in-game                                                        |
-| Safehouses   | Allowed — 7 in-game days survived to claim                                                     |
-| Factions     | Allowed — 7 in-game days survived to create                                                    |
-| Sleep        | Allowed, optional                                                                              |
-| Loot Respawn | Disabled in claimed safehouses                                                                 |
+| Setting | Value |
+| --- | --- |
+| Map | map_distanciado; Muldraugh, KY |
+| Max Players | 32 |
+| Mods | [Steam Workshop Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3776781446) |
+| PVP | Optional — toggle safety on/off in-game |
+| Safehouses | Allowed — 7 in-game days survived to claim |
+| Factions | Allowed — 7 in-game days survived to create |
+| Sleep | Allowed, optional |
+| Loot Respawn | Disabled in claimed safehouses |
 
 ## PVP & Safety System
 
-**Rule 1:** The game technically lets any PvP player hit someone, even with Safety on. However on our server that's against the rules. If their safety is on, leave them alone.
+**Rule 1:** The game technically lets any PvP player hit someone, even with Safety on. However, on our server, that is strictly against the rules. If their safety is on, leave them alone.
 
-- **Safety ON (You see Green Axes icon on the left of the screen):** You are in PvE mode. You cannot damage other players, and other players should not damage you.
-- **Safety OFF (Skull CrossBones Icon by player name):** You are opting into PvP. You can fight other players who also have Safety OFF.
+- **Safety ON (Green Axes Icon):** You are in PvE mode. You cannot damage other players, and other players should not damage you.
+- **Safety OFF (Skull & Crossbones Icon):** You are opting into PvP. You can fight other players who also have Safety OFF.
 - **Toggle Timer:** Switching safety on or off takes **60 seconds**, with a **60-second cooldown** before you can toggle again — plan ahead, as you cannot flip it mid-fight.
 - **Griefing Clause:** Attempting to bypass the safety system (e.g., using vehicle collisions, fire traps, or pulling zombie hordes onto safe players) is strictly forbidden and treated as griefing.
 
@@ -112,4 +124,6 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 ---
 
-<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCampServers Icon" width="16"> · **Powered by AMP · Hosted by SpawnCampServers**
+<img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCamp Icon" width="16"> · **Powered by AMP · Hosted by SpawnCamp**
+
+```
