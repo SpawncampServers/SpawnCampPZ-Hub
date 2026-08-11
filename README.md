@@ -4,7 +4,7 @@
 
 ## SpawnCamp — Project Zomboid
 
-A true PvPvE community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
+A true PvEvP community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
 
 **Server Name:**
 
@@ -96,6 +96,7 @@ Violations result in a **permanent ban** and a complete character wipe.
 - `#pz-announcements` — Official server updates, news, and notifications
 - `#pz-connection-info` — Connection details, IP addresses, and setup steps
 - `#pz-events` — Announcements and schedules for community events
+- `#pz-polls` — Server feedback, community votes, and opinion polls
 - `#pz-help` — General questions, technical support, and ticket assistance
 - `#pz-general` — General chat for Project Zomboid survival chatter
 - `#pz-screenshots` — Share base designs, death moments, and survival pictures
