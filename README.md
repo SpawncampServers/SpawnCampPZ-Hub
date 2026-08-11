@@ -1,4 +1,3 @@
-```markdown
 # SpawnCampPZ-Hub
 
 ![SpawnCamp Banner](https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/banner.png)
@@ -9,32 +8,26 @@ A true PvPvE community. Play your way — survivor, trader, medic, hunter, build
 
 **Server Name:**
 
-```
 
 [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
 
-```
 
 ## How to Connect
 
 **In-game (Steam):**
 
 
-```
 
 Server Browser → search "SpawnCamp" → [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
 
-```
 
 **Direct connect:**
 
 
-```
 
 Address: spawncampservers.dpdns.org
 Port: 16261
 
-```
 
 No whitelist or password required — just join and create your character.
 
