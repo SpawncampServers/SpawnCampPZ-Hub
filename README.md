@@ -16,9 +16,7 @@ A true PvEvP community. Play your way — survivor, trader, medic, hunter, build
 
 **In-game (Steam):**
 
-```text
-Server Browser → search "SpawnCamp" → [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
-```
+`Server Browser → search "SpawnCamp" → [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin`
 
 **Direct connect:**
 
