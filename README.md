@@ -8,18 +8,17 @@ A true PvEvP community. Play your way — survivor, trader, medic, hunter, build
 
 **Server Name:**
 
-
+```text
 [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
-
+```
 
 ## How to Connect
 
 **In-game (Steam):**
 
-
-
+```text
 Server Browser → search "SpawnCamp" → [UK/EU] SpawnCamp | Hardcore PvEvP | QoL Mods | Active Admin
-
+```
 
 **Direct connect:**
 
