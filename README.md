@@ -4,7 +4,7 @@
 
 ## SpawnCamp — Project Zomboid
 
-A true PvEvP community. Play your way — survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
+A true PvEvP community. Play your way: survivor, trader, medic, hunter, builder, bandit, or faction leader. The choice is yours.
 
 **Server Name:**
 
@@ -22,8 +22,14 @@ A true PvEvP community. Play your way — survivor, trader, medic, hunter, build
 
 
 
-Address: spawncampservers.dpdns.org
-Port: 16261
+*Address:*
+```text
+spawncampservers.dpdns.org
+```
+*Port:*
+```text
+16261
+```
 
 
 No whitelist or password required — just join and create your character.
@@ -82,7 +88,7 @@ Violations result in a **permanent ban** and a complete character wipe.
 
 ## Reports & Support
 
-- **Need help or reporting a player?** Create a ticket via `create-ticket` or post in `#pz-help`.
+- **Need help or reporting a player?** Create a ticket via `#create-ticket` or post in `#pz-help`.
 - **Video evidence required** — Reports involving cheating, indirect griefing, or rule violations must include clear video footage. Screenshots alone are not sufficient for administrative action.
 - **Donate:** Support server costs and hosting via [Ko-fi](https://ko-fi.com/spawncampservers).
 
@@ -114,5 +120,3 @@ Violations result in a **permanent ban** and a complete character wipe.
 ---
 
 <img src="https://raw.githubusercontent.com/SpawncampServers/SpawnCampPZ-Hub/refs/heads/main/server-icon.png" alt="SpawnCamp Icon" width="16"> · **Powered by AMP · Hosted by SpawnCamp**
-
-```
